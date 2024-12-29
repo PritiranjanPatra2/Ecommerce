@@ -3,7 +3,7 @@
 
 ## Hosted Link
 [https://ecommerce-3y70.onrender.com](https://ecommerce-3y70.onrender.com)
-
+### To ensure a smooth user experience, please allow 2 to 3 minutes for the initial document fetch. After this brief waiting period, the document fetching process will operate efficiently and without delays. Thank you for your understanding and patience.
 ### User APIs:
 1. **getAllUsers** - `GET` [https://ecommerce-3y70.onrender.com/ecommerce/v1/user/getallusers]
 2. **getSingleUser** - `GET` [https://ecommerce-3y70.onrender.com/ecommerce/v1/user/getauser/:id]
